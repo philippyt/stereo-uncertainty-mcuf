@@ -1,0 +1,8 @@
+Component,Mean r,Std r
+Consistency only,0.299,0.136
+Curv + Uniq,0.100,0.034
+Curv + Uniq + Cons,0.225,0.089
+Curvature only,0.083,0.034
+Full (+ occlusion),0.232,0.082
+Full adaptive,0.281,0.102
+Uniqueness only,0.069,0.015
